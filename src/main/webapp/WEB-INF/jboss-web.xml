@@ -1,0 +1,3 @@
+<jboss-web>
+    <context-root>jbpm-embedded-ejb</context-root>
+</jboss-web>
